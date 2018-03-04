@@ -1859,3 +1859,212 @@ JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller
 1519546213011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1519546213264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1519546213506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815662016	geckodriver	INFO	geckodriver 0.19.1
+1519815662027	geckodriver	INFO	Listening on 127.0.0.1:57194
+1519815663229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.fgWf9Vc7sHlS"
+1519815664155	Marionette	INFO	Enabled via --marionette
+2018-02-28 19:01:05.355 plugin-container[34896:5044354] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519815666143	Marionette	INFO	Listening on port 57203
+1519815666188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519815666266	Marionette	DEBUG	Register listener.js for window 2147483649
+1519815666660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519815666850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519815666851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519815672003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519815672532	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519815683034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519815686288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815689650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815692691	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519815693106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815696035	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519815696304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815699432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815703025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815703539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815703784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815706332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815706580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519815706831	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519815712123	geckodriver	INFO	geckodriver 0.19.1
+1519815712134	geckodriver	INFO	Listening on 127.0.0.1:57376
+1519815713223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.DBiff5NxmRnl"
+1519815713850	Marionette	INFO	Enabled via --marionette
+2018-02-28 19:01:54.942 plugin-container[34904:5045288] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519815715524	Marionette	INFO	Listening on port 57385
+1519815715554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519815715633	Marionette	DEBUG	Register listener.js for window 2147483649
+1519815715993	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519815716069	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519815716069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519815720526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519815720900	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519815731312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519823663288	geckodriver	INFO	geckodriver 0.19.1
+1519823663303	geckodriver	INFO	Listening on 127.0.0.1:61286
+1519823664452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.Pxh6s14MSDfq"
+1519823665363	Marionette	INFO	Enabled via --marionette
+2018-02-28 21:14:26.634 plugin-container[35203:5101834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519823667338	Marionette	INFO	Listening on port 61295
+1519823667650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519823667729	Marionette	DEBUG	Register listener.js for window 2147483649
+1519823668118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519823668270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519823668271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519823672730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519823673199	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519823683748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823687002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823690369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823693413	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519823693821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823696766	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519823697036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823700166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823703777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823704314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823704558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823707095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823707341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519823707586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519825818519	geckodriver	INFO	geckodriver 0.19.1
+1519825818534	geckodriver	INFO	Listening on 127.0.0.1:64719
+1519825819681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.O1bhmQE4SGEz"
+1519825820570	Marionette	INFO	Enabled via --marionette
+2018-02-28 21:50:21.730 plugin-container[35295:5117801] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519825822521	Marionette	INFO	Listening on port 64732
+1519825822559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519825822628	Marionette	DEBUG	Register listener.js for window 2147483649
+1519825823096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519825823191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519825823191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519825830208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519825830963	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519825836510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825839745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825843122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825846170	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519825846512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825849523	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519825849788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825852922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825856533	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825857063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825857308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825859864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519825860112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519827743900	geckodriver	INFO	geckodriver 0.19.1
+1519827743910	geckodriver	INFO	Listening on 127.0.0.1:55722
+1519827745048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.oPJaRBbnZFGg"
+1519827745885	Marionette	INFO	Enabled via --marionette
+2018-02-28 22:22:27.046 plugin-container[35383:5131154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519827747666	Marionette	INFO	Listening on port 55736
+1519827747756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519827747846	Marionette	DEBUG	Register listener.js for window 2147483649
+1519827748313	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519827748423	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519827748424	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519827752977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519827753268	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519827758686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519827761950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827765336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827768379	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519827768751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827771737	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519827772027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827775127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827778721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827779250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827779489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827782027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827782276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519827782818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519828074628	geckodriver	INFO	geckodriver 0.19.1
+1519828074639	geckodriver	INFO	Listening on 127.0.0.1:57103
+1519828074773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.msrWeQEF509r"
+1519828075558	Marionette	INFO	Enabled via --marionette
+2018-02-28 22:27:56.617 plugin-container[35425:5134247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519828077362	Marionette	INFO	Listening on port 57110
+1519828077426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519828077514	Marionette	DEBUG	Register listener.js for window 2147483649
+1519828077892	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519828078138	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519828078138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519828087879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519828088188	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519828093587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519828096837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828100221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828103263	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519828103627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828106636	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519828106920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828110058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828113664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828114208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828114452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828117001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828117252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828117788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828118038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828304869	geckodriver	INFO	geckodriver 0.19.1
+1519828304879	geckodriver	INFO	Listening on 127.0.0.1:58057
+1519828304991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/y4/d93421w55lq13xs09jtmgz600000gn/T/rust_mozprofile.O9tj3WgaV97V"
+1519828305749	Marionette	INFO	Enabled via --marionette
+2018-02-28 22:31:46.835 plugin-container[35441:5136554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x722f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519828307498	Marionette	INFO	Listening on port 58064
+1519828307541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519828307636	Marionette	DEBUG	Register listener.js for window 2147483649
+1519828308050	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1519828308142	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1519828308142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/script/filter.js, line 800: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1519828315142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+1519828315533	Marionette	DEBUG	Received DOM event "pageshow" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/dashboard"
+JavaScript warning: http://o2o.baison.com.cn/icrm_test/manage/web/src/controller/index/IndexDashboardCtrl.js, line 895: unreachable code after return statement
+1519828321095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828324344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828327719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828330762	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/index"
+1519828331122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828334120	Marionette	DEBUG	Received DOM event "popstate" for "http://o2o.baison.com.cn/icrm_test/manage/web/#/crm/customer/add"
+1519828334373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828337504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828341117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828341674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828341920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828344464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828344711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828345240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1519828345486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

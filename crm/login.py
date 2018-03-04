@@ -5,14 +5,14 @@ from selenium.webdriver.common.action_chains import ActionChains
 class LoginTest(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox(executable_path='/Users/liusheng/Desktop/application/geckodriver')
-        self.driver.implicitly_wait(60)
+        self.driver.implicitly_wait(40)
         self.driver.set_page_load_timeout(20)
         self.driver.set_script_timeout(20)
         self.driver.maximize_window()
         self.driver.get("http://o2o.baison.com.cn/icrm_test/manage/web")
-        time.sleep(10)
+        time.sleep(5)
 
-    def atest_login(self):
+    def test_login(self):
         #输入用户名
         self.driver.find_element_by_xpath("//p/input").send_keys("admin")
         #输入密码
@@ -42,9 +42,9 @@ class LoginTest(unittest.TestCase):
         self.driver.find_element_by_xpath("//*[@id='btn_ico_0']/span[1]").click()
         #输入'顾客名称'
         time.sleep(3)
-        self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[2]/input").send_keys('ss01')
+        self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[2]/input").send_keys('ss04')
         #输入'手机号'
-        self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[4]/input").send_keys("13100001111")
+        self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[4]/input").send_keys("13100001114")
 
         #选择渠道
         self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[6]/select-single/span/input").click()
@@ -66,26 +66,32 @@ class LoginTest(unittest.TestCase):
 
         #点击生日
         self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/ul/li[12]/select-date/div/input").click()
-        #选择生日为今天
-        #ele4 = self.driver.find_element_by_xpath("//*[@id='dpTodayInput']")
-        #ActionChains(self.driver).move_to_element(ele4).perform()
-        #self.driver.find_element_by_xpath("//*[@id='dpTodayInput']").click()
+        #切入iframe页面
+        self.driver.switch_to.frame(0)
+        # 选择生日为今天
+        ele4 = self.driver.find_element_by_xpath("//*[@id='dpTodayInput']")
+        ActionChains(self.driver).move_to_element(ele4).perform()
+        self.driver.find_element_by_xpath("//*[@id='dpTodayInput']").click()
+        #从iframe切回主文档
+        self.driver.switch_to.default_content()
+        #保存
         self.driver.find_element_by_xpath("//*[@id='main_box']/div/div[2]/div/button[1]").click()
         time.sleep(5)
+
+        self.assertEqual()
 
     def tearDown(self):
         self.driver.close()
 
 
 if __name__ == '__main__':
-    unittest.main()
+    #unittest.main()
 
     # 构造测试集
-    '''suite = unittest.TestSuite()
-    suite.addTest(LoginTest("test_login"))
+    suite = unittest.TestSuite()
+    #suite.addTest(LoginTest("test_login"))
     suite.addTest(LoginTest("test_add_customer"))
 
     # 执行测试
     runner = unittest.TextTestRunner()
     runner.run(suite)
-    '''
